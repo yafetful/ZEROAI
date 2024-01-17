@@ -3,7 +3,7 @@
 
 ## Overview
 Welcome to the 0ai.ai project! Our mission is to harness the power of artificial intelligence to predict cryptocurrency prices with unparalleled accuracy. This project is at the forefront of blending advanced machine learning techniques with financial forecasting.
-
+![historical_results_comparison](example/historical_results_comparison.png)
 ## Core Technologies
 ### 1. Long Short-Term Memory (LSTM) Networks: 
 These are a special kind of recurrent neural network (RNN) capable of learning long-term dependencies. In our project, LSTM is instrumental in understanding the time-series data of cryptocurrencies, allowing us to capture patterns over extended periods.
@@ -20,7 +20,7 @@ The project operates in two main stages:
 **Initial Prediction Models**: Each technology (LSTM, Neural Prophet, and Random Forest) independently predicts daily and hourly cryptocurrency prices. These models are fine-tuned through extensive testing and hyperparameter optimization.
 
 **Meta-Modeling Using Machine Learning**: We then synthesize these individual predictions, comparing them with historical real-world data. The machine learning meta-model harmonizes these diverse predictions into a single, more accurate forecast.
-
+![price_prediction](example/price_prediction.png)
 ## Current Performance
 Our model has demonstrated significant success in predicting prices for cryptocurrencies with substantial historical data, such as Bitcoin and Ethereum.
 
