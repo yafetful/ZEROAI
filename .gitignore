@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 # models
+js/
 train/lightning_logs/
 models/ETHUSD_1h_randomforest.joblib
 models/XBTUSD_1h_randomforest.joblib
