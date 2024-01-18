@@ -1,6 +1,8 @@
 # 0ai.ai
 [web](https://0ai.ai) | [twitter](https://twitter.com/zeroai_official) | [telegram channel](https://t.me/ZEROAI_channel)
 
+# This project has been released to (https://github.com/zeroai-official/zeroai). Future updates will be made there. Please switch to that repository.
+
 ## Overview
 Welcome to the 0ai.ai project! Our mission is to harness the power of artificial intelligence to predict cryptocurrency prices with unparalleled accuracy. This project is at the forefront of blending advanced machine learning techniques with financial forecasting.
 ![historical_results_comparison](example/historical_results_comparison.png)
